@@ -1,0 +1,12 @@
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.exe.config
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.exe
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.pdb
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csprojResolveAssemblyReference.cache
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.frmmain.resources
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.Properties.Resources.resources
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csproj.GenerateResource.Cache
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.exe
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.pdb
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.blank.resources
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.About.resources
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.FindForm.resources
