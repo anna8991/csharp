@@ -1,0 +1,9 @@
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\DragAndDrop\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csprojResolveAssemblyReference.cache
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Form1.resources
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.Cache
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\DragAndDrop\DragAndDrop\obj\Debug\DragAndDrop.pdb
