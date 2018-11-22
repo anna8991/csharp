@@ -1,0 +1,11 @@
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\bin\Debug\Library.exe.config
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\bin\Debug\Library.exe
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\bin\Debug\Library.pdb
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\obj\Debug\Library.FMain.resources
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\obj\Debug\Library.Form2.resources
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\obj\Debug\Library.exe
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\obj\Debug\Library.pdb
+C:\Users\аня\Desktop\Учеба\Учеба 2018 уч.год\ИСР\visio\Library\Library\obj\Debug\Library.Ins_Book.resources
